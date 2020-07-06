@@ -273,7 +273,7 @@ var documents = [{
     "id": 54,
     "url": "/rapsberry-smoothie/",
     "title": "Raspberry Smoothie",
-    "body": "2018/01/01 - Ingredients:: 1 c. raspberries1 c. almond milk (unsweetened)1/4 c. greek yogurt1/4 c. oats Tips:: Keep shelf stable almond milk on hand so you can always make healthy choices. Here are our favorite brands: 	Kirkland	Silk	Orgain	 	Make sure you buy UNSWEETENED milks. The extra sugar in your diet is not good for your health! "
+    "body": "2018/01/01 - Ingredients:: 1 c. raspberries1 c. almond milk (unsweetened)1/4 c. greek yogurt1/4 c. oats Tips:: Keep shelf stable almond milk on hand so you can always make healthy choices. Here are our favorite brands: 	Kirkland	Silk	Orgain		Make sure you buy UNSWEETENED milks. The extra sugar in your diet is not good for your health! "
     }];
 
 var idx = lunr(function () {
