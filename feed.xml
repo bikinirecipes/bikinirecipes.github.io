@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bikini Recipes</title>
+    <description>Nutrition to support your best self.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 05 Jul 2020 21:02:40 -0400</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2020 21:02:40 -0400</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Orange Smoothie</title>
+        <description>
+</description>
+        <pubDate>Thu, 04 Jul 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/orange-smoothie/</link>
+        <guid isPermaLink="true">http://localhost:4000/orange-smoothie/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Coco Loco Smoothie</title>
+        <description>&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients:&lt;br /&gt;&lt;/h3&gt;
+&lt;p&gt;1 c. almond milk (sugar free)&lt;br /&gt;
+1/2 c. pineapple&lt;br /&gt;
+1/4 coconut &lt;br /&gt;
+1/2 frozen banana&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4&gt;Tips:&lt;/h4&gt;
+
+&lt;p&gt;Keep shelf stable almond milk on hand so you can always make healthy choices. Here are our favorite brands:&lt;br /&gt; 
+	&lt;a href=&quot;https://www.amazon.com/Kirkland-Signature-Organic-Almond-Beverage/dp/B07HL1NRGQ/ref=sr_1_5?crid=1C5JUXMM6JQVQ&amp;amp;dchild=1&amp;amp;keywords=organic+unsweetened+almond+milk&amp;amp;qid=1593988330&amp;amp;sprefix=organic+unswe%2Caps%2C157&amp;amp;sr=8-5&quot; target=&quot;_blank&quot;&gt;Kirkland&lt;/a&gt;&lt;br /&gt;
+	&lt;a href=&quot;https://www.amazon.com/Silk-Unsweetened-Unflavored-Dairy-Alternative-Individually/dp/B016LBC8EC/ref=sr_1_6?crid=1C5JUXMM6JQVQ&amp;amp;dchild=1&amp;amp;keywords=organic+unsweetened+almond+milk&amp;amp;qid=1593988330&amp;amp;sprefix=organic+unswe%2Caps%2C157&amp;amp;sr=8-6&quot; target=&quot;_blank&quot;&gt;Silk&lt;/a&gt;&lt;br /&gt;
+	&lt;a href=&quot;https://www.amazon.com/Orgain-Organic-Protein-Unsweetened-Vanilla/dp/B017NWQ39E/ref=sr_1_7?crid=1C5JUXMM6JQVQ&amp;amp;dchild=1&amp;amp;keywords=organic+unsweetened+almond+milk&amp;amp;qid=1593988330&amp;amp;sprefix=organic+unswe%2Caps%2C157&amp;amp;sr=8-7&quot; target=&quot;_blank&quot;&gt;Orgain&lt;/a&gt;&lt;br /&gt;
+	&lt;a href=&quot;https://www.amazon.com/JOI-Almond-Milk-Nutbase-Additive/dp/B0843R2PHK/ref=sr_1_30?crid=1C5JUXMM6JQVQ&amp;amp;dchild=1&amp;amp;keywords=organic%2Bunsweetened%2Balmond%2Bmilk&amp;amp;qid=1593988330&amp;amp;sprefix=organic%2Bunswe%2Caps%2C157&amp;amp;sr=8-30&amp;amp;th=1&quot; target=&quot;_blank&quot;&gt;JOI&lt;/a&gt;&lt;br /&gt;
+
+	Make sure you buy UNSWEETENED milks. The extra sugar in your diet is not good for your health!
+
+&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Jan 2019 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/cocoloco-smoothie/</link>
+        <guid isPermaLink="true">http://localhost:4000/cocoloco-smoothie/</guid>
+        
+        
+        <category>pineapple</category>
+        
+        <category>coconut</category>
+        
+      </item>
+    
+      <item>
+        <title>Pineapple Upsidedown Smoothie</title>
+        <description>&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients:&lt;br /&gt;&lt;/h3&gt;
+&lt;p&gt;3/4 c. orange juice&lt;br /&gt;
+1 c. pineapple&lt;br /&gt;
+1/2 frozen banana&lt;br /&gt;
+handful of carrots&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 08 Jan 2019 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/pineappleupsidedown-smoothie/</link>
+        <guid isPermaLink="true">http://localhost:4000/pineappleupsidedown-smoothie/</guid>
+        
+        
+        <category>carrot</category>
+        
+        <category>pineapple</category>
+        
+        <category>orange</category>
+        
+      </item>
+    
+      <item>
+        <title>Orange Sun Smoothie</title>
+        <description>&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients:&lt;br /&gt;&lt;/h3&gt;
+&lt;p&gt;1/2 c. orange juice&lt;br /&gt;
+1/2 c. pineapple&lt;br /&gt;
+1 frozen banana&lt;br /&gt;
+1 in. fresh ginger&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Jan 2019 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/orange-smoothie/</link>
+        <guid isPermaLink="true">http://localhost:4000/orange-smoothie/</guid>
+        
+        
+        <category>orange</category>
+        
+        <category>pineapple</category>
+        
+        <category>ginger</category>
+        
+      </item>
+    
+      <item>
+        <title>Apple Turnover Smoothie</title>
+        <description>&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients:&lt;br /&gt;&lt;/h3&gt;
+&lt;p&gt;1 c. almond milk (unsweetened)&lt;br /&gt;
+1 apple&lt;br /&gt;
+1/2 c. oats&lt;br /&gt;
+cinnamon (optional)&lt;br /&gt;
+1 scoop of vanilla protein powder (optional)&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4&gt;Tips:&lt;/h4&gt;
+
+&lt;p&gt;Keep shelf stable almond milk on hand so you can always make healthy choices. Here are our favorite brands:&lt;br /&gt; 
+	&lt;a href=&quot;https://www.amazon.com/Kirkland-Signature-Organic-Almond-Beverage/dp/B07HL1NRGQ/ref=sr_1_5?crid=1C5JUXMM6JQVQ&amp;amp;dchild=1&amp;amp;keywords=organic+unsweetened+almond+milk&amp;amp;qid=1593988330&amp;amp;sprefix=organic+unswe%2Caps%2C157&amp;amp;sr=8-5&quot; target=&quot;_blank&quot;&gt;Kirkland&lt;/a&gt;&lt;br /&gt;
+	&lt;a href=&quot;https://www.amazon.com/Silk-Unsweetened-Unflavored-Dairy-Alternative-Individually/dp/B016LBC8EC/ref=sr_1_6?crid=1C5JUXMM6JQVQ&amp;amp;dchild=1&amp;amp;keywords=organic+unsweetened+almond+milk&amp;amp;qid=1593988330&amp;amp;sprefix=organic+unswe%2Caps%2C157&amp;amp;sr=8-6&quot; target=&quot;_blank&quot;&gt;Silk&lt;/a&gt;&lt;br /&gt;
+	&lt;a href=&quot;https://www.amazon.com/Orgain-Organic-Protein-Unsweetened-Vanilla/dp/B017NWQ39E/ref=sr_1_7?crid=1C5JUXMM6JQVQ&amp;amp;dchild=1&amp;amp;keywords=organic+unsweetened+almond+milk&amp;amp;qid=1593988330&amp;amp;sprefix=organic+unswe%2Caps%2C157&amp;amp;sr=8-7&quot; target=&quot;_blank&quot;&gt;Orgain&lt;/a&gt;&lt;br /&gt;
+	&lt;a href=&quot;https://www.amazon.com/JOI-Almond-Milk-Nutbase-Additive/dp/B0843R2PHK/ref=sr_1_30?crid=1C5JUXMM6JQVQ&amp;amp;dchild=1&amp;amp;keywords=organic%2Bunsweetened%2Balmond%2Bmilk&amp;amp;qid=1593988330&amp;amp;sprefix=organic%2Bunswe%2Caps%2C157&amp;amp;sr=8-30&amp;amp;th=1&quot; target=&quot;_blank&quot;&gt;JOI&lt;/a&gt;&lt;br /&gt;
+
+	Make sure you buy UNSWEETENED milks. The extra sugar in your diet is not good for your health!
+
+&lt;/p&gt;
+</description>
+        <pubDate>Sun, 06 Jan 2019 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/appleturnover-smoothie/</link>
+        <guid isPermaLink="true">http://localhost:4000/appleturnover-smoothie/</guid>
+        
+        
+        <category>apple</category>
+        
+        <category>ginger</category>
+        
+      </item>
+    
+      <item>
+        <title>Watermelon Refresh Smoothie</title>
+        <description>&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients:&lt;br /&gt;&lt;/h3&gt;
+&lt;p&gt;1 c. watermelon&lt;br /&gt;
+1/2 c. pineapple&lt;br /&gt;
+1 juicy lime &lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 05 Jan 2019 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/watermelon-smoothie/</link>
+        <guid isPermaLink="true">http://localhost:4000/watermelon-smoothie/</guid>
+        
+        
+        <category>watermelon</category>
+        
+        <category>pineapple</category>
+        
+        <category>lime</category>
+        
+      </item>
+    
+      <item>
+        <title>Strawberry Shortcake Smoothie</title>
+        <description>&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients:&lt;br /&gt;&lt;/h3&gt;
+&lt;p&gt;1 c. almond milk (sugar free)&lt;br /&gt;
+1 c.strawberries&lt;br /&gt;
+1/2 frozen banana&lt;br /&gt;
+1/4 c. oats&lt;br /&gt;
+1 scoop of vanilla protein powder (optional)&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4&gt;Tips:&lt;/h4&gt;
+
+&lt;p&gt;Keep shelf stable almond milk on hand so you can always make healthy choices. Here are our favorite brands:&lt;br /&gt; 
+	&lt;a href=&quot;https://www.amazon.com/Kirkland-Signature-Organic-Almond-Beverage/dp/B07HL1NRGQ/ref=sr_1_5?crid=1C5JUXMM6JQVQ&amp;amp;dchild=1&amp;amp;keywords=organic+unsweetened+almond+milk&amp;amp;qid=1593988330&amp;amp;sprefix=organic+unswe%2Caps%2C157&amp;amp;sr=8-5&quot; target=&quot;_blank&quot;&gt;Kirkland&lt;/a&gt;&lt;br /&gt;
+	&lt;a href=&quot;https://www.amazon.com/Silk-Unsweetened-Unflavored-Dairy-Alternative-Individually/dp/B016LBC8EC/ref=sr_1_6?crid=1C5JUXMM6JQVQ&amp;amp;dchild=1&amp;amp;keywords=organic+unsweetened+almond+milk&amp;amp;qid=1593988330&amp;amp;sprefix=organic+unswe%2Caps%2C157&amp;amp;sr=8-6&quot; target=&quot;_blank&quot;&gt;Silk&lt;/a&gt;&lt;br /&gt;
+	&lt;a href=&quot;https://www.amazon.com/Orgain-Organic-Protein-Unsweetened-Vanilla/dp/B017NWQ39E/ref=sr_1_7?crid=1C5JUXMM6JQVQ&amp;amp;dchild=1&amp;amp;keywords=organic+unsweetened+almond+milk&amp;amp;qid=1593988330&amp;amp;sprefix=organic+unswe%2Caps%2C157&amp;amp;sr=8-7&quot; target=&quot;_blank&quot;&gt;Orgain&lt;/a&gt;&lt;br /&gt;
+	&lt;a href=&quot;https://www.amazon.com/JOI-Almond-Milk-Nutbase-Additive/dp/B0843R2PHK/ref=sr_1_30?crid=1C5JUXMM6JQVQ&amp;amp;dchild=1&amp;amp;keywords=organic%2Bunsweetened%2Balmond%2Bmilk&amp;amp;qid=1593988330&amp;amp;sprefix=organic%2Bunswe%2Caps%2C157&amp;amp;sr=8-30&amp;amp;th=1&quot; target=&quot;_blank&quot;&gt;JOI&lt;/a&gt;&lt;br /&gt;
+
+	Make sure you buy UNSWEETENED milks. The extra sugar in your diet is not good for your health!
+
+&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/strawberryshortcake-smoothie/</link>
+        <guid isPermaLink="true">http://localhost:4000/strawberryshortcake-smoothie/</guid>
+        
+        
+        <category>strawberry</category>
+        
+        <category>banana</category>
+        
+      </item>
+    
+      <item>
+        <title>Blueberry Muffin Smoothie</title>
+        <description>&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients:&lt;br /&gt;&lt;/h3&gt;
+&lt;p&gt;1 c. almond milk (sugar free)&lt;br /&gt;
+1 c. blueberries&lt;br /&gt;
+1/2 frozen banana&lt;br /&gt;
+1/4 c. oats&lt;br /&gt;
+cinnamon to taste&lt;br /&gt;
+handful of walnuts (optional)&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4&gt;Tips:&lt;/h4&gt;
+
+&lt;p&gt;Keep shelf stable almond milk on hand so you can always make healthy choices. Here are our favorite brands:&lt;br /&gt; 
+	&lt;a href=&quot;https://www.amazon.com/Kirkland-Signature-Organic-Almond-Beverage/dp/B07HL1NRGQ/ref=sr_1_5?crid=1C5JUXMM6JQVQ&amp;amp;dchild=1&amp;amp;keywords=organic+unsweetened+almond+milk&amp;amp;qid=1593988330&amp;amp;sprefix=organic+unswe%2Caps%2C157&amp;amp;sr=8-5&quot; target=&quot;_blank&quot;&gt;Kirkland&lt;/a&gt;&lt;br /&gt;
+	&lt;a href=&quot;https://www.amazon.com/Silk-Unsweetened-Unflavored-Dairy-Alternative-Individually/dp/B016LBC8EC/ref=sr_1_6?crid=1C5JUXMM6JQVQ&amp;amp;dchild=1&amp;amp;keywords=organic+unsweetened+almond+milk&amp;amp;qid=1593988330&amp;amp;sprefix=organic+unswe%2Caps%2C157&amp;amp;sr=8-6&quot; target=&quot;_blank&quot;&gt;Silk&lt;/a&gt;&lt;br /&gt;
+	&lt;a href=&quot;https://www.amazon.com/Orgain-Organic-Protein-Unsweetened-Vanilla/dp/B017NWQ39E/ref=sr_1_7?crid=1C5JUXMM6JQVQ&amp;amp;dchild=1&amp;amp;keywords=organic+unsweetened+almond+milk&amp;amp;qid=1593988330&amp;amp;sprefix=organic+unswe%2Caps%2C157&amp;amp;sr=8-7&quot; target=&quot;_blank&quot;&gt;Orgain&lt;/a&gt;&lt;br /&gt;
+	&lt;a href=&quot;https://www.amazon.com/JOI-Almond-Milk-Nutbase-Additive/dp/B0843R2PHK/ref=sr_1_30?crid=1C5JUXMM6JQVQ&amp;amp;dchild=1&amp;amp;keywords=organic%2Bunsweetened%2Balmond%2Bmilk&amp;amp;qid=1593988330&amp;amp;sprefix=organic%2Bunswe%2Caps%2C157&amp;amp;sr=8-30&amp;amp;th=1&quot; target=&quot;_blank&quot;&gt;JOI&lt;/a&gt;&lt;br /&gt;
+
+	Make sure you buy UNSWEETENED milks. The extra sugar in your diet is not good for your health!
+
+&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Jan 2019 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blueberrymuffin-smoothie/</link>
+        <guid isPermaLink="true">http://localhost:4000/blueberrymuffin-smoothie/</guid>
+        
+        
+        <category>blueberry</category>
+        
+        <category>banana</category>
+        
+      </item>
+    
+      <item>
+        <title>Fruit Burst Smoothie</title>
+        <description>&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients:&lt;br /&gt;&lt;/h3&gt;
+&lt;p&gt;1 c. orange juice&lt;br /&gt;
+1/2 c. pineapple&lt;br /&gt;
+1/4 lemon (seeds removed, skin on)&lt;br /&gt;
+1 in. fresh ginger&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 02 Jan 2019 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/fruitburst-smoothie/</link>
+        <guid isPermaLink="true">http://localhost:4000/fruitburst-smoothie/</guid>
+        
+        
+        <category>lemon</category>
+        
+        <category>ginger</category>
+        
+        <category>pineapple</category>
+        
+      </item>
+    
+      <item>
+        <title>Forest Berry Smoothie</title>
+        <description>&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients:&lt;br /&gt;&lt;/h3&gt;
+&lt;p&gt;1/2 c. strawberries&lt;br /&gt;
+1/2 c. blackberries&lt;br /&gt;
+1/2 c. raspberries&lt;br /&gt;
+1 c. almond milk&lt;br /&gt;
+1/2 c. Greek yogurt (sugar free)&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/forestberry-smoothie/</link>
+        <guid isPermaLink="true">http://localhost:4000/forestberry-smoothie/</guid>
+        
+        
+        <category>strawberry</category>
+        
+        <category>blackberry</category>
+        
+        <category>raspberry</category>
+        
+      </item>
+    
+  </channel>
+</rss>
