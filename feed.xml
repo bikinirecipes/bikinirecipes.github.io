@@ -3,22 +3,11 @@
   <channel>
     <title>Bikini Recipes</title>
     <description>Nutrition to support your best self.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Jul 2020 21:02:40 -0400</pubDate>
-    <lastBuildDate>Sun, 05 Jul 2020 21:02:40 -0400</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 05 Jul 2020 21:19:39 -0400</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2020 21:19:39 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
-    
-      <item>
-        <title>Orange Smoothie</title>
-        <description>
-</description>
-        <pubDate>Thu, 04 Jul 2019 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/orange-smoothie/</link>
-        <guid isPermaLink="true">http://localhost:4000/orange-smoothie/</guid>
-        
-        
-      </item>
     
       <item>
         <title>Coco Loco Smoothie</title>
@@ -41,8 +30,8 @@
 &lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Jan 2019 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/cocoloco-smoothie/</link>
-        <guid isPermaLink="true">http://localhost:4000/cocoloco-smoothie/</guid>
+        <link>/cocoloco-smoothie/</link>
+        <guid isPermaLink="true">/cocoloco-smoothie/</guid>
         
         
         <category>pineapple</category>
@@ -61,8 +50,8 @@ handful of carrots&lt;br /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 08 Jan 2019 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/pineappleupsidedown-smoothie/</link>
-        <guid isPermaLink="true">http://localhost:4000/pineappleupsidedown-smoothie/</guid>
+        <link>/pineappleupsidedown-smoothie/</link>
+        <guid isPermaLink="true">/pineappleupsidedown-smoothie/</guid>
         
         
         <category>carrot</category>
@@ -82,8 +71,8 @@ handful of carrots&lt;br /&gt;&lt;/p&gt;
 1 in. fresh ginger&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Jan 2019 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/orange-smoothie/</link>
-        <guid isPermaLink="true">http://localhost:4000/orange-smoothie/</guid>
+        <link>/orange-smoothie/</link>
+        <guid isPermaLink="true">/orange-smoothie/</guid>
         
         
         <category>orange</category>
@@ -116,8 +105,8 @@ cinnamon (optional)&lt;br /&gt;
 &lt;/p&gt;
 </description>
         <pubDate>Sun, 06 Jan 2019 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/appleturnover-smoothie/</link>
-        <guid isPermaLink="true">http://localhost:4000/appleturnover-smoothie/</guid>
+        <link>/appleturnover-smoothie/</link>
+        <guid isPermaLink="true">/appleturnover-smoothie/</guid>
         
         
         <category>apple</category>
@@ -134,8 +123,8 @@ cinnamon (optional)&lt;br /&gt;
 1 juicy lime &lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 05 Jan 2019 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/watermelon-smoothie/</link>
-        <guid isPermaLink="true">http://localhost:4000/watermelon-smoothie/</guid>
+        <link>/watermelon-smoothie/</link>
+        <guid isPermaLink="true">/watermelon-smoothie/</guid>
         
         
         <category>watermelon</category>
@@ -168,8 +157,8 @@ cinnamon (optional)&lt;br /&gt;
 &lt;/p&gt;
 </description>
         <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/strawberryshortcake-smoothie/</link>
-        <guid isPermaLink="true">http://localhost:4000/strawberryshortcake-smoothie/</guid>
+        <link>/strawberryshortcake-smoothie/</link>
+        <guid isPermaLink="true">/strawberryshortcake-smoothie/</guid>
         
         
         <category>strawberry</category>
@@ -201,8 +190,8 @@ handful of walnuts (optional)&lt;br /&gt;&lt;/p&gt;
 &lt;/p&gt;
 </description>
         <pubDate>Thu, 03 Jan 2019 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blueberrymuffin-smoothie/</link>
-        <guid isPermaLink="true">http://localhost:4000/blueberrymuffin-smoothie/</guid>
+        <link>/blueberrymuffin-smoothie/</link>
+        <guid isPermaLink="true">/blueberrymuffin-smoothie/</guid>
         
         
         <category>blueberry</category>
@@ -221,8 +210,8 @@ handful of walnuts (optional)&lt;br /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 02 Jan 2019 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/fruitburst-smoothie/</link>
-        <guid isPermaLink="true">http://localhost:4000/fruitburst-smoothie/</guid>
+        <link>/fruitburst-smoothie/</link>
+        <guid isPermaLink="true">/fruitburst-smoothie/</guid>
         
         
         <category>lemon</category>
@@ -243,8 +232,8 @@ handful of walnuts (optional)&lt;br /&gt;&lt;/p&gt;
 1/2 c. Greek yogurt (sugar free)&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/forestberry-smoothie/</link>
-        <guid isPermaLink="true">http://localhost:4000/forestberry-smoothie/</guid>
+        <link>/forestberry-smoothie/</link>
+        <guid isPermaLink="true">/forestberry-smoothie/</guid>
         
         
         <category>strawberry</category>
@@ -252,6 +241,37 @@ handful of walnuts (optional)&lt;br /&gt;&lt;/p&gt;
         <category>blackberry</category>
         
         <category>raspberry</category>
+        
+      </item>
+    
+      <item>
+        <title>Dragon Fruit Smoothie</title>
+        <description>&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients:&lt;br /&gt;&lt;/h3&gt;
+&lt;p&gt;1 c. almond milk&lt;br /&gt;
+1 frozen banana&lt;br /&gt;
+1/2 lime&lt;br /&gt;
+1 dragonfruit (or two scoops powder)&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4&gt;Tips:&lt;/h4&gt;
+
+&lt;p&gt;Keep shelf stable almond milk on hand so you can always make healthy choices. Here are our favorite brands:&lt;br /&gt; 
+	&lt;a href=&quot;https://www.amazon.com/Kirkland-Signature-Organic-Almond-Beverage/dp/B07HL1NRGQ/ref=sr_1_5?crid=1C5JUXMM6JQVQ&amp;amp;dchild=1&amp;amp;keywords=organic+unsweetened+almond+milk&amp;amp;qid=1593988330&amp;amp;sprefix=organic+unswe%2Caps%2C157&amp;amp;sr=8-5&quot; target=&quot;_blank&quot;&gt;Kirkland&lt;/a&gt;&lt;br /&gt;
+	&lt;a href=&quot;https://www.amazon.com/Silk-Unsweetened-Unflavored-Dairy-Alternative-Individually/dp/B016LBC8EC/ref=sr_1_6?crid=1C5JUXMM6JQVQ&amp;amp;dchild=1&amp;amp;keywords=organic+unsweetened+almond+milk&amp;amp;qid=1593988330&amp;amp;sprefix=organic+unswe%2Caps%2C157&amp;amp;sr=8-6&quot; target=&quot;_blank&quot;&gt;Silk&lt;/a&gt;&lt;br /&gt;
+	&lt;a href=&quot;https://www.amazon.com/Orgain-Organic-Protein-Unsweetened-Vanilla/dp/B017NWQ39E/ref=sr_1_7?crid=1C5JUXMM6JQVQ&amp;amp;dchild=1&amp;amp;keywords=organic+unsweetened+almond+milk&amp;amp;qid=1593988330&amp;amp;sprefix=organic+unswe%2Caps%2C157&amp;amp;sr=8-7&quot; target=&quot;_blank&quot;&gt;Orgain&lt;/a&gt;&lt;br /&gt;
+	&lt;a href=&quot;https://www.amazon.com/JOI-Almond-Milk-Nutbase-Additive/dp/B0843R2PHK/ref=sr_1_30?crid=1C5JUXMM6JQVQ&amp;amp;dchild=1&amp;amp;keywords=organic%2Bunsweetened%2Balmond%2Bmilk&amp;amp;qid=1593988330&amp;amp;sprefix=organic%2Bunswe%2Caps%2C157&amp;amp;sr=8-30&amp;amp;th=1&quot; target=&quot;_blank&quot;&gt;JOI&lt;/a&gt;&lt;br /&gt;
+
+	Make sure you buy UNSWEETENED milks. The extra sugar in your diet is not good for your health!
+
+&lt;/p&gt;
+</description>
+        <pubDate>Mon, 31 Dec 2018 00:00:00 -0500</pubDate>
+        <link>/dragonfruit-smoothie/</link>
+        <guid isPermaLink="true">/dragonfruit-smoothie/</guid>
+        
+        
+        <category>banana</category>
+        
+        <category>lime</category>
         
       </item>
     
