@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "/about",
     "title": "The History of Bikini Recipes",
-    "body": "Bikini Recipes is dedicated to promoting healthy, simple food choices to support your best self. Legal: Please read our legal policy here. Questions?: Head over to our Contact Page! Buy me a coffeeThank you for your support! Your donation helps me to maintain and improve Bikini Recipes. Buy me a coffee "
+    "body": "Bikini Recipes is dedicated to promoting healthy, simple food choices to support your best self. Legal &amp; Required Disclosures: Please read our legal policy here. As an Amazon Associate Bikini Recipes earns from qualifying purchases. Questions?: Head over to our Contact Page! Buy me a coffeeThank you for your support! Your donation helps me to maintain and improve Bikini Recipes. Buy me a coffee "
     }, {
     "id": 2,
     "url": "/categories",
