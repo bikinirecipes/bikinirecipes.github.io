@@ -228,7 +228,7 @@ var documents = [{
     "id": 45,
     "url": "/supersunny-smoothie/",
     "title": "Super Sunny Smoothie",
-    "body": "2018/01/10 - Ingredients:: 1 frozen banana1/2 fresh orange1/2 c. orange juice1 in.  fresh gingergoji berries (optional) "
+    "body": "2018/01/10 - Ingredients:: 1 frozen banana1/2 fresh orange1/2 c. orange juice1 in.  fresh gingergoji berries (optional) Try It: Goji Berries!: Goji berries are a great smoothie mix-in or yogurt topping. They are high in fiber, protein, antioxidants, vitamins and minerals. Try them: 	Healthworks Raw Goji Berries (32 Ounces / 2 Pound) | Certified Organic &amp; Sun-Dried | Keto, Vegan &amp; Non-GMO | Baking, Teas &amp; Smoothies | Antioxidant Superfood	 	2 lbs/32oz Premium Organic, Raw &amp; Dried Goji Berries - USDA Certified - (907g) - Natural Superfood - Extra Large, Non GMO Berries with Resealable Bag by Nutrient Elements - Free Recipes E-Book	 	Navitas Organics Goji Berries, 16 oz. Bag — Organic, Non-GMO, Sun-Dried, Sulfite-Free 	Viva Naturals Organic Dried Goji Berries, 1lb - Premium Himalayan Berries Perfect for Baking, Teas, Trail Mixes and More 	Made in Nature Premium Goji Berries, 16oz – Organic, Non-GMO, Sulfite-Free Find your favorite:           "
     }, {
     "id": 46,
     "url": "/mangoavocado-smoothie/",
